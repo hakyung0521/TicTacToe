@@ -1,6 +1,6 @@
 ﻿// 
 // File: TicTacToe.cs
-// Author: Sophie Kim
+// Author: Hakyung(Sophie) Kim
 // Purpose: The purpose of this activity is to develop and demonstrate your mastery of the following competencies.
 // 
 
